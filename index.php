@@ -1,13 +1,31 @@
 <?php
- echo "Hello V2";
- EchO "Hello V2";
- ecHo "Hello V2";
- ECHO "Hello V2";
-//  Echo case sensitive nhi hai 
+// String type
+$name = "Vaibhav Vats";
+
+// Integer
+$num = 455;
+
+// float
+$float = 999.99;
+echo var_dump($float);
+
+// boolean
+$bool = true;
+$notBool = false;
+echo var_dump($notBool);
+echo var_dump($bool);
+
+// object --> are instance of classes
+// $obj = {name : "V2", learning: "php"};
+
+// array
+$arr = array('name', "V2", 'learning', "php");
+echo var_dump($arr);
+echo  $arr[0];
+echo  $arr[1];
 
 
-// but but but 😶 variable hote hai
-// each variable name start with $
-$name = "Vaibhav";
-$namE = "vats";
+// null
+$numbr = null;
+echo var_dump($numbr);
 ?>

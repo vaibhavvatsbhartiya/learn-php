@@ -12,19 +12,11 @@ php ik server side-scripting language hai
 ```
 -------------------
 
-**Case Sensitive**
-```php
-<?php
- echo "Hello V2";
- EchO "Hello V2";
- ecHo "Hello V2";
- ECHO "Hello V2";
-//  Echo case sensitive nhi hai 
-
-// but but but 😶 variable hote hai
-// each variable name start with $
-$name = "Vaibhav";
-$namE = "vats";
-// see difference between $name and $namE
-?>
-```
+**Data Types**
+   1. String
+   2. Integer
+   3. Float
+   4. Boolean
+   5. Object
+   6. Array
+   7. Null 
