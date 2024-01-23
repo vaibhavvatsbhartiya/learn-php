@@ -13,6 +13,7 @@ php ik server side-scripting language hai
 -------------------
 
 **Data Types**
+---------------------------
    1. String
    2. Integer
    3. Float
@@ -20,3 +21,8 @@ php ik server side-scripting language hai
    5. Object
    6. Array
    7. Null 
+
+
+file agr kisi alg folder m ho to 
+![url](image.png)
+url m file ka name and folder ka complete nam use kre.s
