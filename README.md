@@ -29,7 +29,7 @@ url m file ka name and folder ka complete nam use kre.s
 
 <!-- ******************************************************** -->
 
-**Operators**
+**Operators Types**
 ---------------------------
    1. Arithmetic operators
    2. Logical operators.
