@@ -26,3 +26,12 @@ php ik server side-scripting language hai
 file agr kisi alg folder m ho to 
 ![url](image.png)
 url m file ka name and folder ka complete nam use kre.s
+
+<!-- ******************************************************** -->
+
+**Operators**
+---------------------------
+   1. Arithmetic operators
+   2. Logical operators.
+   3. Comparision operators.
+   4. Assignment operators.
