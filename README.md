@@ -34,4 +34,4 @@ url m file ka name and folder ka complete nam use kre.s
    1. Arithmetic operators
    2. Logical operators.
    3. Comparision operators.
-   4. Assignment operators.
+   4. Assignment operators. 
